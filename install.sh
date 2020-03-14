@@ -11,6 +11,7 @@ sudo apt install python3
 sudo apt install build-essential
 sudo apt install kernel-package 
 sudo apt install libncurses5-dev 
+sudo apt install pkg-config
 sudo apt install libelf-dev
 sudo apt install gcc
 sudo apt install g
@@ -20,6 +21,8 @@ sudo apt install lss-dev
 sudo apt install flex
 sudo apt install bisio
 sudo apt install bison
+sudo apt install openssl
+sudo apt install libssl-dev
 sudo apt install xsltproc
 sudo apt install gperf
 sudo apt install g++
