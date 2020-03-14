@@ -1,0 +1,5 @@
+  114  git config --global user.email "maurice.chen.tw@gmail.com"
+  115  git config --global user.name "maurice chen"
+  116  git config credential.helper store
+  117  git config --global credential.helper store
+  118  history |grep 'git config' > gitEnv.set
